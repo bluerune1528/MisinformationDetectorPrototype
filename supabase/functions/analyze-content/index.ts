@@ -276,7 +276,7 @@ OUTPUT STYLE
 
 Provide an explanation not too short not too big suitable for normal users:
 - clear and direct
-- reference evidence logically
+- reference evidence logically, you may include trusted/credible news urls/names.
 
 --------------------------------------------------
 RESPONSE FORMAT (STRICT JSON)
